@@ -2,7 +2,7 @@
 
 <i>Please note: Portfolio is still under construction</i>
  
-My portfolio would contain all I have learnt, including my projects as a software engineer.
+This portfolio would contain all I have learnt, including my projects as a software engineer.
 
 <h3 align="center"><a href="https://zeegab.vercel.app/"><strong>« Click to see Portfolio here »</strong></a></h3>
 
