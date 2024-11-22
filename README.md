@@ -1,2 +1,7 @@
-# My_portfolio
-This is my portfolio which contains all my learning and projects as a software engineer.
+This is my Portfolio
+
+It is still under construction.
+
+My portfolio would contain all I have learnt, including my projects as a software engineer.
+
+See Demo >> https://zeegab.vercel.app/
