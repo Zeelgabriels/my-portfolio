@@ -1,6 +1,6 @@
 # My Portfolio
 
- <i>Under construction</i>
+Please note: <i>Portfolio is still under construction</i>
  
 My portfolio would contain all I have learnt, including my projects as a software engineer.
 
